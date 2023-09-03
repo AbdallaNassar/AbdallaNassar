@@ -104,3 +104,6 @@ Thanks for stopping by my profile! Feel free to explore my repositories, and don
 	<a href="https://www.instagram.com/AbdallaNassarr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </p>
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
