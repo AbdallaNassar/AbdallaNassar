@@ -24,13 +24,13 @@
 - 💬 Ask me about anything related to software development, front-end technologies, or data science.
 <!-- - 📫 You can reach me via email at [abdallanassar25@gmail.com](mailto:your.email@example.com). -->
 
-## Interests
+## <img src="https://media.giphy.com/media/G9iNGjpV4sD4O6o778/giphy.gif" height="30px" style="margin: 0 0 -10px 0;">Interests
 
 - ❤️ I love all things tech-related and enjoy staying up-to-date with the latest trends.
 - 🔭 Currently, I'm working on enhancing my programming skills and building personal projects to showcase my work.
 - ⚡ Fun fact: I enjoy solving puzzles and brain teasers in my free time!
 
-## Skills
+## <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px" style="margin: 0 0 -10px 0;"> Skills
 
 
 
@@ -75,7 +75,7 @@
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"></a> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"></p>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">  Connect with me
 
 <p align="center">
 	<a href="mailto:abdallanassar25@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
