@@ -34,10 +34,7 @@
 
 
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallaNassar&layout=compact&langs_count=7&theme=algolia" style="float: left;"/>
-
-
-<table style="float: right; margin: 0 0 -38px 0;">
+<table style=margin: 0 0 -38px 0;">
 <thead>
 <tr>
 <th colspan="4"> Languages :yum:</th>
@@ -70,9 +67,22 @@
 <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></td>
 <td> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </td>
 <td><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="40" height="40"/></td></tr></thead></table>
-
-<div style="clear: both;"></div> <!-- Add a clearing element to prevent content overlap -->
-
+<style>
+  table {
+    border: 2px solid #000; /* Border style and color for the table */
+    border-collapse: separate; /* Separate borders for cells */
+    border-spacing: 10px; /* Spacing between cells */
+    width: 50%; /* Optional: Set the width of the table */
+}
+</style>
+<style>
+  th, td {
+    border: 1px solid #000; /* Border style and color for cells */
+    padding: 10px; /* Padding for cells */
+    text-align: center; /* Center text within cells */
+    border-radius: 50px;
+  }
+</style>
 
 
 ## Quote <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
