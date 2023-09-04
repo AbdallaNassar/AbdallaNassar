@@ -86,3 +86,5 @@
 </p>
 
 #### <p>Thanks for stopping by my profile! Feel free to explore my repositories, and don't hesitate to connect with me if you share similar interests or have any questions. Let's code and learn together! 🚀</p>
+
+![snake gif](https://github.com/AbdallaNassar/AbdallaNassar/blob/output/github-contribution-grid-snake.gif)
