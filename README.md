@@ -1,4 +1,4 @@
-# Hi there, I'm Abdalla Nassar! 👋
+Hi there, I'm Abdalla Nassar! 👋
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div id="header_text">
