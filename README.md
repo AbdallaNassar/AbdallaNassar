@@ -85,6 +85,4 @@
 	<a href="https://www.instagram.com/AbdallaNassarr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<p style="font-size: 18px;">
-Thanks for stopping by my profile! Feel free to explore my repositories, and don't hesitate to connect with me if you share similar interests or have any questions. Let's code and learn together! 🚀
-</p>
+#### <p>Thanks for stopping by my profile! Feel free to explore my repositories, and don't hesitate to connect with me if you share similar interests or have any questions. Let's code and learn together! 🚀</p>
