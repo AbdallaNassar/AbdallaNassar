@@ -1,15 +1,16 @@
 # Hi there, I'm Abdalla Nassar! 👋
 
-<div style="display: flex; justify-content:space-between">
-  <div id="header_text" >
-    <p style="font-size: 15 px;">I'm a software engineer and a student based in Egypt.<br>
-       I'm passionate about technology, Front-end development, and Data science.<br>
-       Welcome to my GitHub profile!</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div id="header_text">
+    <p style="font-size: 15px;">I'm a software engineer and a student based in Egypt.<br>
+      I'm passionate about technology, Front-end development, and Data science.<br>
+      Welcome to my GitHub profile!</p>
   </div>
-<div style="margin: 0 0 -100px 0; ">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmUwbjJ2bTN3ZHp3cjR1bjJwMjJnczV5Zm51aGxzNmEwcXo3NXJhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"  />
+  <div style="margin-left: 20px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmUwbjJ2bTN3ZHp3cjR1bjJwMjJnczV5Zm51aGxzNmEwcXo3NXJhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  </div>
 </div>
-</div>
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
