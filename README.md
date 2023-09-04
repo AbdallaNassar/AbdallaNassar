@@ -1,4 +1,4 @@
-# Hi there, I'm Abdalla Nassar! 👋
+<!-- # Hi there, I'm Abdalla Nassar! 👋
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div id="header_text">
@@ -9,7 +9,43 @@
   <div style="margin-left: 20px;">
     <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmUwbjJ2bTN3ZHp3cjR1bjJwMjJnczV5Zm51aGxzNmEwcXo3NXJhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /></picture>
   </div>
-</div>
+</div> -->
+
+
+
+<h2> Hi there, I'm Abdalla Nassar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+
+  <p style="font-size: 15px;">I'm a software engineer and a student based in Egypt.<br>
+    I'm passionate about technology, Front-end development, and Data science.<br>
+    Welcome to my GitHub profile!</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -87,7 +123,7 @@
 <td><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="40" height="40"/></td></tr></thead></table>
 </div></div>
 
-## Quote
+## Quote <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
