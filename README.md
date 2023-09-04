@@ -67,22 +67,7 @@
 <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></td>
 <td> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </td>
 <td><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="40" height="40"/></td></tr></thead></table>
-<style>
-  table {
-    border: 2px solid #000; /* Border style and color for the table */
-    border-collapse: separate; /* Separate borders for cells */
-    border-spacing: 10px; /* Spacing between cells */
-    width: 50%; /* Optional: Set the width of the table */
-}
-</style>
-<style>
-  th, td {
-    border: 1px solid #000; /* Border style and color for cells */
-    padding: 10px; /* Padding for cells */
-    text-align: center; /* Center text within cells */
-    border-radius: 50px;
-  }
-</style>
+
 
 
 ## Quote <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
