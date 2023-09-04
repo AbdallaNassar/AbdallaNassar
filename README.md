@@ -26,8 +26,6 @@
 - 🔭 Currently, I'm working on enhancing my programming skills and building personal projects to showcase my work.
 - ⚡ Fun fact: I enjoy solving puzzles and brain teasers in my free time!
 
-Thanks for stopping by my profile! Feel free to explore my repositories, and don't hesitate to connect with me if you share similar interests or have any questions. Let's code and learn together! 🚀
-
 ## Skills
 
 
@@ -107,4 +105,6 @@ Thanks for stopping by my profile! Feel free to explore my repositories, and don
 </p>
 
 
-![Snake animation](https://github.com/AbdallaNassar/AbdallaNassar/blob/output/github-contribution-grid-snake.svg)
+<p style="font-size: 18px;">
+Thanks for stopping by my profile! Feel free to explore my repositories, and don't hesitate to connect with me if you share similar interests or have any questions. Let's code and learn together! 🚀
+</p>
