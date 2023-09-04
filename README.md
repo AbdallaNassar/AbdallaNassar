@@ -1,4 +1,4 @@
-Hi there, I'm Abdalla Nassar! 👋
+# Hi there, I'm Abdalla Nassar! 👋
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div id="header_text">
@@ -7,7 +7,7 @@ Hi there, I'm Abdalla Nassar! 👋
       Welcome to my GitHub profile!</p>
   </div>
   <div style="margin-left: 20px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmUwbjJ2bTN3ZHp3cjR1bjJwMjJnczV5Zm51aGxzNmEwcXo3NXJhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+    <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmUwbjJ2bTN3ZHp3cjR1bjJwMjJnczV5Zm51aGxzNmEwcXo3NXJhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /></picture>
   </div>
 </div>
 
