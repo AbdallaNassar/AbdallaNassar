@@ -13,7 +13,7 @@
 <h1> Hi there, I'm Abdalla Nassar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40" style="margin: 0 0 -10px 0;"></h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
   <p style="font-size: 15px;">I'm a software engineer and a student based in Egypt.<br>
-    I'm passionate about technology, Front-end development, and Data science.<br>
+    I'm passionate about technology, Front-end development, Data science, and machine learning.<br>
     Welcome to my GitHub profile!</p>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px style="margin: 0 0 -10px 0;">About me
@@ -21,7 +21,7 @@
 - 💼 I'm currently a student, learning and exploring the world of software development.
 - 🌱 I'm always learning, and I'm currently diving into various technologies and improving my coding skills.
 - 🤝 I'm open to collaborating on exciting tech projects, so feel free to reach out!
-- 💬 Ask me about anything related to software development, front-end technologies, or data science.
+- 💬 Ask me about anything related to software development, front-end technologies, or data science and machine learning.
 <!-- - 📫 You can reach me via email at [abdallanassar25@gmail.com](mailto:your.email@example.com). -->
 
 ## <img src="https://media.giphy.com/media/G9iNGjpV4sD4O6o778/giphy.gif" height="30px" style="margin: 0 0 -10px 0;">Interests
